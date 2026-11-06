@@ -1,0 +1,3 @@
+cosign.key
+*.log
+__pycache__/
